@@ -4,6 +4,8 @@ public class Hello
 {
     public static void main(String[] args)
     {
+        // added comment for lab 6
+        
         Scanner sc = new Scanner(System.in);
 
         // name input
